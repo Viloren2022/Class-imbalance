@@ -1,0 +1,9 @@
+{
+  "bootstrap_count": 5000,
+  "seed": 20261103,
+  "stratified": true,
+  "pairing": "same row multiplicities for 12 models within each dataset",
+  "models_fixed": true,
+  "cost_threshold": "OOF training, no re-estimation on test bootstrap",
+  "note": "exploratory new unified series"
+}

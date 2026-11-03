@@ -1,0 +1,19 @@
+{
+  "observations": 10000,
+  "source_AI4I_positives": 339,
+  "PMDI_Diagnostic_positives": 348,
+  "discordant_label_count": 27,
+  "different_label_0_to_1": 18,
+  "different_label_1_to_0": 9,
+  "missing_numeric_cells": 26563,
+  "missing_numeric_share": 0.53126,
+  "date_min": "2014-02-27T16:47:00",
+  "date_max": "2023-06-21T14:58:00",
+  "unique_dates": 9986,
+  "system_distinct": 120,
+  "control_distinct": 3,
+  "matched_train_positives": 271,
+  "matched_test_positives": 68,
+  "native_train_positives": 278,
+  "native_test_positives": 70
+}

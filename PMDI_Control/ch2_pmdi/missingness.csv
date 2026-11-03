@@ -1,0 +1,6 @@
+feature,missing_n,missing_share
+Air temperature [K],6563,0.6563
+Process temperature [K],6563,0.6563
+Rotational speed [rpm],3321,0.3321
+Torque [Nm],3437,0.3437
+Tool wear [min],6679,0.6679

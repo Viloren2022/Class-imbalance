@@ -1,0 +1,3 @@
+﻿comparison,point_contrast,bootstrap_mean_contrast,two_sided_95_low,one_sided_upper_97_5,share_bootstrap_contrast_below_0,criterion,supported
+weighting vs ROS,0.11975392371875675,0.09463520176902625,-0.13435545746283137,0.2711032497275221,0.192,point contrast < 0 and upper 97.5% < 0,False
+weighting vs SMOTE,0.039956840370106494,0.016539201501824977,-0.15545348188871494,0.1892668795003986,0.42,point contrast < 0 and upper 97.5% < 0,False
